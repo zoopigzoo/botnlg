@@ -2,18 +2,18 @@
 
 natural language generation for chat bot
 
-# why botnlg?
+# how to use
 
 Refer to **./test/botnlg.test.js**
 
 # features
 
-1. Supporting custom tags
+## Supporting custom tags
 
 Make custom tags as directives in botnlg.tag.js. 
 Refer to **botnlg.tag.js** to see how to implement a custom tag **timeofday** 
 
-2. Supporting custom function
+## Supporting custom function
 
 Make custom functions in botnlg.func.js. 
 Refer to **botnlg.func.js** to see how to implement a custom function **domainIsLinkedIn** 
